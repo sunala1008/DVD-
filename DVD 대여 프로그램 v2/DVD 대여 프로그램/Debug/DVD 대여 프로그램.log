@@ -1,0 +1,79 @@
+﻿  cusInfoAccess.c
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\cusInfoAccess.c(20,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\cusInfoAccess.c(21,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\cusInfoAccess.c(22,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\cusInfoAccess.c(67,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\cusInfoAccess.c(85,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  dvdInfoAccess.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\dvdInfoAccess.c(21,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\dvdInfoAccess.c(22,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\dvdInfoAccess.c(83,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\dvdInfoAccess.c(106,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  manager.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\manager.c(23,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\manager.c(35,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\manager.c(38,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\manager.c(61,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\manager.c(91,6): warning C4013:  'gets' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\manager.c(105,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\manager.c(134,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\main.c(11,10): warning C4013:  'InitData' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\main.c(22,16): warning C4013:  'CustomerMenu' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\main.c(25,11): warning C4013:  'DVDMenu' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\main.c(38,11): warning C4013:  'FreeCUS' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\main.c(39,11): warning C4013:  'FreeDVD' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\main.c(16,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  rentInfoAccess.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(31,6): warning C4013:  'gets' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(63,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(26,6): warning C4101:  'rentState': unreferenced local variable
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(24,6): warning C4101:  'registDVD': unreferenced local variable
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(25,6): warning C4101:  'registCus': unreferenced local variable
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(94,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(95,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(111,6): warning C4101:  'registDVD': unreferenced local variable
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(153,11): warning C4098:  'turnin': 'void' function returning a value
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(159,10): warning C4098:  'turnin': 'void' function returning a value
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(182,19): warning C4013:  'ShowDVDInforMenu' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(183,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(279,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(282,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(308,20): warning C4013:  'ShowDVDRentInfo' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(340,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\rentInfoAccess.c(359,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  screenOut.c
+  submenu.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\submenu.c(17,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\submenu.c(62,15): warning C4013:  'rental_menu' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\submenu.c(65,16): warning C4013:  're_turn_menu' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\submenu.c(68,14): warning C4013:  'infomation' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\DVD 대여 프로그램\submenu.c(50,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+  DVD 대여 프로그램.vcxproj -> C:\Users\301-19\source\repos\DVD 대여 프로그램 v2\Debug\DVD 대여 프로그램.exe
